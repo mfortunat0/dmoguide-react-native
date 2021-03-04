@@ -1,0 +1,1299 @@
+[
+    {
+        "name": "agumonc",
+        "stage": "rookie",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1185
+            },
+            {
+                "label": "ds",
+                "value": 589
+            },
+            {
+                "label": "at",
+                "value": 148
+            },
+            {
+                "label": "as",
+                "value": 1
+            },
+            {
+                "label": "ct",
+                "value": 21.37
+            },
+            {
+                "label": "ht",
+                "value": 490
+            },
+            {
+                "label": "de",
+                "value": 36
+            },
+            {
+                "label": "ev",
+                "value": 26.6
+            }
+        ],
+        "family": [
+            "nature spirits",
+            "virus busters",
+            "unknown"
+        ],
+        "from": "none",
+        "skills": [
+            {
+                "name": "sharp claws",
+                "lvl1": 224,
+                "lvl25": 536,
+                "cooldown": 1,
+                "element": "fire",
+                "ds": 5
+            },
+            {
+                "name": "baby flame",
+                "lvl1": 716,
+                "lvl25": 1484,
+                "cooldown": 6,
+                "element": "fire",
+                "ds": 21
+            }
+        ]
+    },
+    {
+        "name": "greymon",
+        "stage": "champion",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1805
+            },
+            {
+                "label": "ds",
+                "value": 903
+            },
+            {
+                "label": "at",
+                "value": 372
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 21.65
+            },
+            {
+                "label": "ht",
+                "value": 470
+            },
+            {
+                "label": "de",
+                "value": 56
+            },
+            {
+                "label": "ev",
+                "value": 25.2
+            }
+        ],
+        "family": [
+            "nature spirits",
+            "virus busters",
+            "metal empire"
+        ],
+        "from": "agumonc",
+        "skills": [
+            {
+                "name": "great tooth",
+                "lvl1": 450,
+                "lvl25": 930,
+                "cooldown": 2,
+                "element": "fire",
+                "ds": 14
+            },
+            {
+                "name": "mega flame",
+                "lvl1": 1163,
+                "lvl25": 2219,
+                "cooldown": 6,
+                "element": "fire",
+                "ds": 40
+            }
+        ]
+    },
+    {
+        "name": "metalgreymon",
+        "stage": "ultimate",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 2707
+            },
+            {
+                "label": "ds",
+                "value": 1226
+            },
+            {
+                "label": "at",
+                "value": 581
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 20.95
+            },
+            {
+                "label": "ht",
+                "value": 485
+            },
+            {
+                "label": "de",
+                "value": 82
+            },
+            {
+                "label": "ev",
+                "value": 23.7
+            }
+        ],
+        "family": [
+            "metal empire"
+        ],
+        "from": "greymon",
+        "skills": [
+            {
+                "name": "metal slash",
+                "lvl1": 1023,
+                "lvl25": 2295,
+                "cooldown": 3,
+                "element": "fire",
+                "ds": 26
+            },
+            {
+                "name": "giga destroyer",
+                "lvl1": 2778,
+                "lvl25": 5754,
+                "cooldown": 9,
+                "element": "fire",
+                "ds": 83
+            }
+        ]
+    },
+    {
+        "name": "wargreymon",
+        "stage": "mega",
+        "attribute": "vaccine",
+        "rank": "a",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 3784
+            },
+            {
+                "label": "ds",
+                "value": 1568
+            },
+            {
+                "label": "at",
+                "value": 1263
+            },
+            {
+                "label": "as",
+                "value": 2.4
+            },
+            {
+                "label": "ct",
+                "value": 21.65
+            },
+            {
+                "label": "ht",
+                "value": 480
+            },
+            {
+                "label": "de",
+                "value": 126
+            },
+            {
+                "label": "ev",
+                "value": 25.2
+            }
+        ],
+        "family": [
+            "metal empire",
+            "virus busters",
+            "dragon's roar"
+        ],
+        "from": "metalgreymon",
+        "skills": [
+            {
+                "name": "dramon killer",
+                "lvl1": 1981,
+                "lvl25": 4189,
+                "cooldown": 3,
+                "element": "fire",
+                "ds": 57
+            },
+            {
+                "name": "gaia force",
+                "lvl1": 6797,
+                "lvl25": 13109,
+                "cooldown": 10,
+                "element": "fire",
+                "ds": 230
+            }
+        ]
+    },
+    {
+        "name": "gabumon",
+        "stage": "rookie",
+        "attribute": "data",
+        "rank": "none",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1185
+            },
+            {
+                "label": "ds",
+                "value": 589
+            },
+            {
+                "label": "at",
+                "value": 148
+            },
+            {
+                "label": "as",
+                "value": 1
+            },
+            {
+                "label": "ct",
+                "value": 20.67
+            },
+            {
+                "label": "ht",
+                "value": 485
+            },
+            {
+                "label": "de",
+                "value": 39
+            },
+            {
+                "label": "ev",
+                "value": 23.7
+            }
+        ],
+        "family": [
+            "nature spirits"
+        ],
+        "from": "none",
+        "skills": [
+            {
+                "name": "little horn",
+                "lvl1": 438,
+                "lvl25": 990,
+                "cooldown": 4,
+                "element": "ice",
+                "ds": 18
+            },
+            {
+                "name": "petit fire",
+                "lvl1": 1943,
+                "lvl25": 4079,
+                "cooldown": 18,
+                "element": "ice",
+                "ds": 70
+            }
+        ]
+    },
+    {
+        "name": "garurumon",
+        "stage": "champion",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1670
+            },
+            {
+                "label": "ds",
+                "value": 877
+            },
+            {
+                "label": "at",
+                "value": 221
+            },
+            {
+                "label": "as",
+                "value": 1
+            },
+            {
+                "label": "ct",
+                "value": 21.66
+            },
+            {
+                "label": "ht",
+                "value": 494
+            },
+            {
+                "label": "de",
+                "value": 52
+            },
+            {
+                "label": "ev",
+                "value": 29.4
+            }
+        ],
+        "family": [
+            "nightmare soldiers"
+        ],
+        "from": "gabumon",
+        "skills": [
+            {
+                "name": "freeze fang",
+                "lvl1": 607,
+                "lvl25": 1279,
+                "cooldown": 3,
+                "element": "ice",
+                "ds": 24
+            },
+            {
+                "name": "howling blaster",
+                "lvl1": 1869,
+                "lvl25": 3573,
+                "cooldown": 9,
+                "element": "ice",
+                "ds": 67
+            }
+        ]
+    },
+    {
+        "name": "weregarurumon",
+        "stage": "ultimate",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 2437
+            },
+            {
+                "label": "ds",
+                "value": 1189
+            },
+            {
+                "label": "at",
+                "value": 483
+            },
+            {
+                "label": "as",
+                "value": 1.5
+            },
+            {
+                "label": "ct",
+                "value": 21.66
+            },
+            {
+                "label": "ht",
+                "value": 494
+            },
+            {
+                "label": "de",
+                "value": 80
+            },
+            {
+                "label": "ev",
+                "value": 26.1
+            }
+        ],
+        "family": [
+            "nightmare soldiers"
+        ],
+        "from": "garurumon",
+        "skills": [
+            {
+                "name": "baldy blow",
+                "lvl1": 944,
+                "lvl25": 2096,
+                "cooldown": 3,
+                "element": "pitchblack",
+                "ds": 39
+            },
+            {
+                "name": "kaiser nail",
+                "lvl1": 2751,
+                "lvl25": 5631,
+                "cooldown": 9,
+                "element": "pitchblack",
+                "ds": 103
+            }
+        ]
+    },
+    {
+        "name": "metalgarurumon",
+        "stage": "mega",
+        "attribute": "data",
+        "rank": "a",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 3566
+            },
+            {
+                "label": "ds",
+                "value": 1536
+            },
+            {
+                "label": "at",
+                "value": 590
+            },
+            {
+                "label": "as",
+                "value": 1.2
+            },
+            {
+                "label": "ct",
+                "value": 22.78
+            },
+            {
+                "label": "ht",
+                "value": 515
+            },
+            {
+                "label": "de",
+                "value": 110
+            },
+            {
+                "label": "ev",
+                "value": 26.1
+            }
+        ],
+        "family": [
+            "metal empire"
+        ],
+        "from": "weregarurumon",
+        "skills": [
+            {
+                "name": "grace cross freezer",
+                "lvl1": 2880,
+                "lvl25": 5880,
+                "cooldown": 5,
+                "element": "ice",
+                "ds": 94
+            },
+            {
+                "name": "cocytus breath",
+                "lvl1": 5412,
+                "lvl25": 9996,
+                "cooldown": 8,
+                "element": "ice",
+                "ds": 196
+            }
+        ]
+    },
+    {
+        "name": "zdgarurumon",
+        "stage": "side mega",
+        "attribute": "data",
+        "rank": "s",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 5660
+            },
+            {
+                "label": "ds",
+                "value": 2008
+            },
+            {
+                "label": "at",
+                "value": 1777
+            },
+            {
+                "label": "as",
+                "value": 2.2
+            },
+            {
+                "label": "ct",
+                "value": 20.67
+            },
+            {
+                "label": "ht",
+                "value": 490
+            },
+            {
+                "label": "de",
+                "value": 193
+            },
+            {
+                "label": "ev",
+                "value": 23.7
+            }
+        ],
+        "family": [
+            "nature spirits"
+        ],
+        "from": "metalgarurumon",
+        "skills": [
+            {
+                "name": "full metal blaze",
+                "lvl1": 3400,
+                "lvl25": 7960,
+                "cooldown": 4,
+                "element": "ice",
+                "ds": 119
+            },
+            {
+                "name": "zd hou",
+                "lvl1": 5761,
+                "lvl25": 12529,
+                "cooldown": 6,
+                "element": "ice",
+                "ds": 188
+            }
+        ]
+    },
+    {
+        "name": "omnimon",
+        "stage": "jogress",
+        "attribute": "vaccine",
+        "rank": "ss",
+        "element": "light",
+        "status": [
+            {
+                "label": "hp",
+                "value": 9164
+            },
+            {
+                "label": "ds",
+                "value": 3404
+            },
+            {
+                "label": "at",
+                "value": 2978
+            },
+            {
+                "label": "as",
+                "value": 2.1
+            },
+            {
+                "label": "ct",
+                "value": 24.04
+            },
+            {
+                "label": "ht",
+                "value": 509
+            },
+            {
+                "label": "de",
+                "value": 282
+            },
+            {
+                "label": "ev",
+                "value": 29.4
+            }
+        ],
+        "family": [
+            "metal empire"
+        ],
+        "from": "wargreymon + metalgarurumon",
+        "skills": [
+            {
+                "name": "garuru cannon",
+                "lvl1": 4606,
+                "lvl25": 7150,
+                "cooldown": 3,
+                "element": "light",
+                "ds": 350
+            },
+            {
+                "name": "grey sword",
+                "lvl1": 12835,
+                "lvl25": 19099,
+                "cooldown": 8,
+                "element": "light",
+                "ds": 780
+            }
+        ]
+    },
+    {
+        "name": "victorygreymon",
+        "stage": "side mega",
+        "attribute": "vaccine",
+        "rank": "s",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 6108
+            },
+            {
+                "label": "ds",
+                "value": 2008
+            },
+            {
+                "label": "at",
+                "value": 2125
+            },
+            {
+                "label": "as",
+                "value": 2.4
+            },
+            {
+                "label": "ct",
+                "value": 20.39
+            },
+            {
+                "label": "ht",
+                "value": 535
+            },
+            {
+                "label": "de",
+                "value": 166
+            },
+            {
+                "label": "ev",
+                "value": 22.3
+            }
+        ],
+        "family": [
+            "dragons roar"
+        ],
+        "from": "wargreymon",
+        "skills": [
+            {
+                "name": "trident gaia",
+                "lvl1": 3400,
+                "lvl25": 7960,
+                "cooldown": 4,
+                "element": "fire",
+                "ds": 75
+            },
+            {
+                "name": "dramon break",
+                "lvl1": 7682,
+                "lvl25": 16730,
+                "cooldown": 8,
+                "element": "fire",
+                "ds": 206
+            }
+        ]
+    },
+    {
+        "name": "agumon x",
+        "stage": "rookie x",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1647
+            },
+            {
+                "label": "ds",
+                "value": 709
+            },
+            {
+                "label": "at",
+                "value": 475
+            },
+            {
+                "label": "as",
+                "value": 2.2
+            },
+            {
+                "label": "ct",
+                "value": 20.95
+            },
+            {
+                "label": "ht",
+                "value": 485
+            },
+            {
+                "label": "de",
+                "value": 50
+            },
+            {
+                "label": "ev",
+                "value": 32.1
+            }
+        ],
+        "family": [
+            "nature spirits",
+            "virus busters"
+        ],
+        "from": "agumonc",
+        "skills": [
+            {
+                "name": "baby burner",
+                "lvl1": 595,
+                "lvl25": 1435,
+                "cooldown": 3,
+                "element": "fire",
+                "ds": 30
+            },
+            {
+                "name": "spitfire",
+                "lvl1": 1315,
+                "lvl25": 2971,
+                "cooldown": 7,
+                "element": "fire",
+                "ds": 61
+            }
+        ]
+    },
+    {
+        "name": "greymon x",
+        "stage": "champion x",
+        "attribute": "vaccine",
+        "rank": "none",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 2533
+            },
+            {
+                "label": "ds",
+                "value": 1103
+            },
+            {
+                "label": "at",
+                "value": 558
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 21.65
+            },
+            {
+                "label": "ht",
+                "value": 470
+            },
+            {
+                "label": "de",
+                "value": 79
+            },
+            {
+                "label": "ev",
+                "value": 32.1
+            }
+        ],
+        "family": [
+            "nature spirits",
+            "virus busters",
+            "metal empire"
+        ],
+        "from": "agumon x",
+        "skills": [
+            {
+                "name": "mega flame.",
+                "lvl1": 854,
+                "lvl25": 1982,
+                "cooldown": 2,
+                "element": "fire",
+                "ds": 39
+            },
+            {
+                "name": "great antler",
+                "lvl1": 2485,
+                "lvl25": 5341,
+                "cooldown": 7,
+                "element": "fire",
+                "ds": 103
+            }
+        ]
+    },
+    {
+        "name": "metalgreymon x",
+        "stage": "ultimate x",
+        "attribute": "vaccine",
+        "rank": "a",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 3911
+            },
+            {
+                "label": "ds",
+                "value": 1536
+            },
+            {
+                "label": "at",
+                "value": 889
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 20.95
+            },
+            {
+                "label": "ht",
+                "value": 485
+            },
+            {
+                "label": "de",
+                "value": 120
+            },
+            {
+                "label": "ev",
+                "value": 30.3
+            }
+        ],
+        "family": [
+            "metal empire"
+        ],
+        "from": "greymon x",
+        "skills": [
+            {
+                "name": "trident arm ver 9.9",
+                "lvl1": 1763,
+                "lvl25": 4187,
+                "cooldown": 3,
+                "element": "fire",
+                "ds": 88
+            },
+            {
+                "name": "giga destroyer.",
+                "lvl1": 4728,
+                "lvl25": 10464,
+                "cooldown": 9,
+                "element": "fire",
+                "ds": 218
+            }
+        ]
+    },
+    {
+        "name": "wargreymon x",
+        "stage": "mega x",
+        "attribute": "vaccine",
+        "rank": "s",
+        "element": "fire",
+        "status": [
+            {
+                "label": "hp",
+                "value": 5729
+            },
+            {
+                "label": "ds",
+                "value": 2068
+            },
+            {
+                "label": "at",
+                "value": 2011
+            },
+            {
+                "label": "as",
+                "value": 2.4
+            },
+            {
+                "label": "ct",
+                "value": 22.55
+            },
+            {
+                "label": "ht",
+                "value": 480
+            },
+            {
+                "label": "de",
+                "value": 189
+            },
+            {
+                "label": "ev",
+                "value": 32.1
+            }
+        ],
+        "family": [
+            "metal empire",
+            "nature spirits",
+            "virus busters"
+        ],
+        "from": "metalgreymon x",
+        "skills": [
+            {
+                "name": "gaia force zero",
+                "lvl1": 3187,
+                "lvl25": 7003,
+                "cooldown": 3,
+                "element": "fire",
+                "ds": 128
+            },
+            {
+                "name": "poseidon force",
+                "lvl1": 10865,
+                "lvl25": 21833,
+                "cooldown": 10,
+                "element": "water",
+                "ds": 400
+            },
+            {
+                "name": "great tornado",
+                "lvl1": 5411,
+                "lvl25": 19835,
+                "cooldown": 9,
+                "element": "water",
+                "ds": 360
+            }
+        ]
+    },
+    {
+        "name": "gabumon x",
+        "stage": "rookie x",
+        "attribute": "data",
+        "rank": "none",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 1647
+            },
+            {
+                "label": "ds",
+                "value": 709
+            },
+            {
+                "label": "at",
+                "value": 475
+            },
+            {
+                "label": "as",
+                "value": 2.2
+            },
+            {
+                "label": "ct",
+                "value": 20.67
+            },
+            {
+                "label": "ht",
+                "value": 485
+            },
+            {
+                "label": "de",
+                "value": 43
+            },
+            {
+                "label": "ev",
+                "value": 30.3
+            }
+        ],
+        "family": [
+            "nature spirits"
+        ],
+        "from": "gabumon",
+        "skills": [
+            {
+                "name": "little horn.",
+                "lvl1": 755,
+                "lvl25": 1811,
+                "cooldown": 4,
+                "element": "ice",
+                "ds": 40
+            },
+            {
+                "name": "petit fire.",
+                "lvl1": 3323,
+                "lvl25": 7403,
+                "cooldown": 18,
+                "element": "water",
+                "ds": 161
+            }
+        ]
+    },
+    {
+        "name": "garurumon x",
+        "stage": "champion x",
+        "attribute": "data",
+        "rank": "none",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 2356
+            },
+            {
+                "label": "ds",
+                "value": 1077
+            },
+            {
+                "label": "at",
+                "value": 542
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 21.52
+            },
+            {
+                "label": "ht",
+                "value": 494
+            },
+            {
+                "label": "de",
+                "value": 76
+            },
+            {
+                "label": "ev",
+                "value": 32.8
+            }
+        ],
+        "family": [
+            "nightmare soldiers"
+        ],
+        "from": "gabumon x",
+        "skills": [
+            {
+                "name": "freeze fang.",
+                "lvl1": 1062,
+                "lvl25": 2382,
+                "cooldown": 3,
+                "element": "ice",
+                "ds": 54
+            },
+            {
+                "name": "fox fire.",
+                "lvl1": 3234,
+                "lvl25": 6714,
+                "cooldown": 9,
+                "element": "ice",
+                "ds": 150
+            }
+        ]
+    },
+    {
+        "name": "weregarurumon x",
+        "stage": "ultimate x",
+        "attribute": "vaccine",
+        "rank": "a",
+        "element": "pitch black",
+        "status": [
+            {
+                "label": "hp",
+                "value": 3543
+            },
+            {
+                "label": "ds",
+                "value": 1509
+            },
+            {
+                "label": "at",
+                "value": 837
+            },
+            {
+                "label": "as",
+                "value": 1.7
+            },
+            {
+                "label": "ct",
+                "value": 21.52
+            },
+            {
+                "label": "ht",
+                "value": 494
+            },
+            {
+                "label": "de",
+                "value": 116
+            },
+            {
+                "label": "ev",
+                "value": 32.8
+            }
+        ],
+        "family": [
+            "nightmare soldiers"
+        ],
+        "from": "garurumon x",
+        "skills": [
+            {
+                "name": "garuru kick.",
+                "lvl1": 1062,
+                "lvl25": 1665,
+                "cooldown": 3,
+                "element": "Pitch Black",
+                "ds": 86
+            },
+            {
+                "name": "kaiser nail.",
+                "lvl1": 4782,
+                "lvl25": 10590,
+                "cooldown": 9,
+                "element": "Pitch Black",
+                "ds": 229
+            }
+        ]
+    },
+    {
+        "name": "metalgarurumon x",
+        "stage": "ultimate x",
+        "attribute": "data",
+        "rank": "s",
+        "element": "ice",
+        "status": [
+            {
+                "label": "hp",
+                "value": 5388
+            },
+            {
+                "label": "ds",
+                "value": 2056
+            },
+            {
+                "label": "at",
+                "value": 1997
+            },
+            {
+                "label": "as",
+                "value": 2.4
+            },
+            {
+                "label": "ct",
+                "value": 22.71
+            },
+            {
+                "label": "ht",
+                "value": 515
+            },
+            {
+                "label": "de",
+                "value": 165
+            },
+            {
+                "label": "ev",
+                "value": 32.8
+            }
+        ],
+        "family": [
+            "metal empire"
+        ],
+        "from": "weregarurumon x",
+        "skills": [
+            {
+                "name": "grace cross freezer",
+                "lvl1": 4621,
+                "lvl25": 9805,
+                "cooldown": 5,
+                "element": "ice",
+                "ds": 208
+            },
+            {
+                "name": "cocytus breath.",
+                "lvl1": 8627,
+                "lvl25": 16667,
+                "cooldown": 8,
+                "element": "ice",
+                "ds": 354
+            },
+            {
+                "name": "garuru burst",
+                "lvl1": 6910,
+                "lvl25": 19750,
+                "cooldown": 10,
+                "element": "ice",
+                "ds": 416
+            }
+        ]
+    },
+    {
+        "name": "omnimon x",
+        "stage": "jogress x",
+        "attribute": "vaccine",
+        "rank": "sss+",
+        "element": "light",
+        "status": [
+            {
+                "label": "hp",
+                "value": 17247
+            },
+            {
+                "label": "ds",
+                "value": 5487
+            },
+            {
+                "label": "at",
+                "value": 6913
+            },
+            {
+                "label": "as",
+                "value": 2.4
+            },
+            {
+                "label": "ct",
+                "value": 26.27
+            },
+            {
+                "label": "ht",
+                "value": 419
+            },
+            {
+                "label": "de",
+                "value": 525
+            },
+            {
+                "label": "ev",
+                "value": 45.1
+            }
+        ],
+        "family": [
+            "metal empire",
+            "virus busters",
+            "wind guardians"
+        ],
+        "from": "metalgarurumon x + wargreymon x",
+        "skills": [
+            {
+                "name": "garuru cannon.",
+                "lvl1": 20244,
+                "lvl25": 30900,
+                "cooldown": 6,
+                "element": "light",
+                "ds": 870
+            },
+            {
+                "name": "grey sword.",
+                "lvl1": 30367,
+                "lvl25": 46351,
+                "cooldown": 9,
+                "element": "light",
+                "ds": 1304
+            },
+            {
+                "name": "all delete",
+                "lvl1": 115225,
+                "lvl25": 150649,
+                "cooldown": 600,
+                "element": "light",
+                "ds": 3548
+            }
+        ]
+    }
+]
